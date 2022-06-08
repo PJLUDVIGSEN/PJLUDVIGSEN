@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 - I am a fulltime Front-end development Student at Noroff
   looking to expand my knowledge in everything computer and web related.
 - 🌱 I’m currently learning ... Everything
