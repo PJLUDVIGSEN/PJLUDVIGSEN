@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/-React-yellow?style=flat-circle&logo=React)
 ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-yellow?style=flat-circle&logo=css3)
+![sass](https://img.shields.io/badge/-SASS-yellow?style=flat-circle&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-yellow?style=flat-circle&logo=bootstrap)
 
 <!--
