@@ -8,7 +8,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-yellow?style=flat-circle&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-React-yellow?style=flat-circle&logo=React)
 <!--
 **PJLUDVIGSEN/PJLUDVIGSEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
